@@ -20,7 +20,7 @@ jobs:
       - name: Generate Snake Files
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: VandinDev221
+          github_user_name: Vandersonandradedev
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
