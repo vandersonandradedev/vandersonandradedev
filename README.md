@@ -47,23 +47,29 @@
 ### 📊 GitHub Statistics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vandersonandradedev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="Vanderson's GitHub Statistics" height="175" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vandersonandradedev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" 
+    alt="Vanderson's GitHub Statistics" 
+    height="175" 
+  />
 
-<br/><br/>
+  <br/><br/>
 
-<img
-  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vandersonandradedev&layout=compact&langs_count=6&theme=radical&border_radius=10"
-  alt="Most Used Languages"
-  height="175"
-/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandersonandradedev&layout=compact&langs_count=6&theme=radical&border_radius=10"
+    alt="Most Used Languages"
+    height="175"
+  />
 
-<br/>
+  <br/><br/>
 
-<!-- Contribution Graph -->
-
-<div align="center">
+  <!-- Contribution Graph -->
   <h3>🟩 Contribution Graph</h3>
-  <img src="https://ghchart.rshah.org/40c463/vandersonandradedev" alt="Vanderson's GitHub Contribution Graph" width="100%" />
+  <img 
+    src="https://ghchart.rshah.org/40c463/vandersonandradedev" 
+    alt="Vanderson's GitHub Contribution Graph" 
+    width="100%" 
+  />
 </div>
 
 <br/>
